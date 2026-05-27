@@ -1,0 +1,4 @@
+phase_id,x_sulfur,st_surrogate,regime_name,best_microscopic_candidate,micro_score,z_score,is_g11c_passed
+FeSe_undoped_x0,0.0,0.12,PROTECTED (Защищённый стабильный),ligand_exchange,50.0,11.897045514463427,True
+FeSe_doped_x17_QCP,0.17,0.31,BOUNDARY ZONE (Пограничная зона перехода),conformational_gating,100.0,11.845860109293957,True
+FeSe_overdoped_x25,0.25,0.45,RUNAWAY TRANSMISSIVE (Неуправляемый прорыв),conformational_gating,50.0,1.3636843034930792,False

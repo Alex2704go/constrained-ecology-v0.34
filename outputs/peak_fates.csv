@@ -1,0 +1,31 @@
+spectrum_id,nucleus,shift,intensity,assigned_layer,designated_role,mapping_status,details
+NMRexp_rec_001_aromatic_ester,1H,7.252,0.98,Layer2_Representation,Artifact,filtered,Imitative Layer2 Solvent Artifact (solvent_residual)
+NMRexp_rec_001_aromatic_ester,13C,77.15,3.1,Layer2_Representation,Artifact,filtered,Imitative Layer2 Solvent Artifact (solvent_carbon)
+NMRexp_rec_001_aromatic_ester,1H,7.42,1.05,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_aro2
+NMRexp_rec_001_aromatic_ester,1H,4.301,2.01,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_ch2
+NMRexp_rec_001_aromatic_ester,1H,1.35,3.02,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_ch3
+NMRexp_rec_001_aromatic_ester,13C,167.3,1.0,Layer1_Observability,Bookkeeping Scaffold,matched,Aligned with structural coordinate: C_carbonyl
+NMRexp_rec_002_nitrile_protected,1H,2.501,4.1,Layer2_Representation,Artifact,filtered,Imitative Layer2 Solvent Artifact (solvent_residual)
+NMRexp_rec_002_nitrile_protected,1H,7.82,2.0,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_ortho
+NMRexp_rec_002_nitrile_protected,1H,7.65,3.0,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_meta_para
+NMRexp_rec_002_nitrile_protected,13C,119.2,1.0,Layer1_Observability,Bookkeeping Scaffold,matched,Aligned with structural coordinate: C_nitrile
+NMRexp_rec_003_halogen_destabilized,1H,7.15,1.0,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_aro1
+NMRexp_rec_003_halogen_destabilized,1H,7.35,1.0,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_aro2
+NMRexp_rec_003_halogen_destabilized,13C,116.5,1.0,Layer1_Observability,Bookkeeping Scaffold,matched,Aligned with structural coordinate: C_F_attached
+NMRexp_rec_003_halogen_destabilized,19F,-113.2,1.0,Layer1_Observability,Bookkeeping Scaffold,matched,Aligned with structural coordinate: F_fluorine
+NMRexp_rec_004_boron_halogen_coupled,1H,7.75,2.0,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_ortho_B
+NMRexp_rec_004_boron_halogen_coupled,1H,7.18,2.0,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_meta_F
+NMRexp_rec_004_boron_halogen_coupled,19F,-115.1,1.0,Layer1_Observability,Bookkeeping Scaffold,matched,Aligned with structural coordinate: F_fluorine
+NMRexp_rec_004_boron_halogen_coupled,11B,28.5,1.0,Layer1_Observability,Bookkeeping Scaffold,matched,Aligned with structural coordinate: B_boron
+NMRexp_rec_005_claisen_restructuring,1H,5.98,1.0,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_allyl_CH
+NMRexp_rec_005_claisen_restructuring,1H,5.25,2.0,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_allyl_CH2
+NMRexp_rec_005_claisen_restructuring,1H,4.52,2.0,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_ether_CH2
+NMRexp_rec_005_claisen_restructuring,13C,158.5,1.0,Layer1_Observability,Bookkeeping Scaffold,matched,Aligned with structural coordinate: C_ether
+NMRexp_rec_006_halogen_activation,1H,6.85,1.0,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_alkene_I
+NMRexp_rec_006_halogen_activation,1H,7.45,1.0,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_alkene_Ph
+NMRexp_rec_006_halogen_activation,13C,142.1,1.0,Layer1_Observability,Bookkeeping Scaffold,matched,Aligned with structural coordinate: C_alkene_Ph
+NMRexp_rec_007_dead_zone_supression,1H,2.92,1.0,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_isopropyl_CH
+NMRexp_rec_007_dead_zone_supression,1H,1.25,6.0,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_isopropyl_CH3
+NMRexp_rec_008_unstructured_noise_field,1H,-1.2,0.05,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_noise_1
+NMRexp_rec_008_unstructured_noise_field,1H,15.42,0.03,Layer1_Observability,Adaptive Front,matched,Aligned with structural coordinate: H_noise_2
+NMRexp_rec_008_unstructured_noise_field,13C,-50.12,0.1,Layer1_Observability,Bookkeeping Scaffold,matched,Aligned with structural coordinate: C_noise_1

@@ -1,0 +1,6 @@
+case_id,reaction,smiles,st_surrogate,regime_id,regime_name,conversion_pct,dosy_coeff,exotherm_level,best_microscopic_candidate,micro_score,micro_confidence,is_db_registered,db_compound_name,vci,z_score,is_null_hardened
+Case_1_BuLi_Ether_Cold,BuLi в диэтиловом эфире при -78°C,CCCC[Li],0.05,LATENT_JAMMED,LATENT JAMMED (Скрытая блокировка),3.0,0.8,none,aggregation_state,100.0,High Compatibility,False,Unregistered,0.0,10.190864886400195,True
+Case_2_K2CO3_Acetone_Warm,K2CO3 в ацетоне при 40°C,O=C([O-])[O-].[K+].[K+],0.14,PROTECTED,PROTECTED (Защищённый стабильный),65.0,2.1,mild,ion_pairing,100.0,High Compatibility,False,Unregistered,0.0,7.3382234569673646,True
+Case_3_BuLi_THF_Zero,BuLi в ТГФ при 0°C,CCCC[Li],0.21,PROTECTED_COHERENT,PROTECTED COHERENT (Согласованный защищённый),88.0,2.8,mild,solvation-shell_reshaping,80.0,High Compatibility,False,Unregistered,0.0,9.876480645628677,True
+Case_4_K2CO3_DMF_Warm,K2CO3 в ДМФА при 40°C,O=CN(C)C,0.29,BOUNDARY_ZONE,BOUNDARY ZONE (Пограничная зона перехода),55.0,1.9,mild,ion_pairing,100.0,High Compatibility,False,Unregistered,0.0,3.634036679773141,True
+Case_5_K2CO3_DMF_Hot,K2CO3 в ДМФА при 60°C,O=CN(C)C,0.42,RUNAWAY,RUNAWAY TRANSMISSIVE (Неуправляемый прорыв),95.0,4.5,runaway,cluster_opening,100.0,High Compatibility,False,Unregistered,0.0,0.0904043159165695,False

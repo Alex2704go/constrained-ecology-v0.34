@@ -1,0 +1,4 @@
+phase_id,field_T,st_surrogate,regime_name,best_microscopic_candidate,micro_score,z_score,is_g11c_passed
+CeCoIn5_low_field_9T,9.0,0.15,PROTECTED (Защищённый стабильный),ligand_exchange,100.0,7.719267879060557,True
+CeCoIn5_high_field_11T_Qphase,11.2,0.32,BOUNDARY ZONE (Пограничная зона перехода),ion_pairing,100.0,9.35287166278218,True
+CeCoIn5_normal_12T,12.5,0.45,RUNAWAY TRANSMISSIVE (Неуправляемый прорыв),ligand_exchange,50.0,-0.07330370525493887,False

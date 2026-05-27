@@ -1,0 +1,19 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.ipynb_checkpoints/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Arena AI sandbox files
+prepare_repo.py
+setup_git.py
+.cache/
